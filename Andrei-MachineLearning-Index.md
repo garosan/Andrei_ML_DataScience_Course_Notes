@@ -98,7 +98,8 @@ https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-pro
 When shouldn't we use ML?
 	- Will a simple hand-coded instruction based system work?
 
-Main types of ML
+#### Main types of ML
+
 	- Supervised learning
 		- Classification (discrete)
 			- Binary classification
@@ -110,6 +111,8 @@ Main types of ML
 		- Ex. Applying knowledge of cat images recognition to dog images recognition
 	- Reinforcement learning
 		- Rewards and punishments (generally used for games)
+
+
 
 
 
