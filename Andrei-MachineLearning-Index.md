@@ -1,9 +1,9 @@
-Complete Machine Learning and Data Science: Zero to Mastery
+## Complete Machine Learning and Data Science: Zero to Mastery   
 https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
 
 
 Syllabus
----------------------------------------------
+--------
 - Introduction
 - Machine Learning 101
 - Machine Learning and Data Science framework
@@ -16,9 +16,9 @@ Syllabus
 
 
 Introduction
----------------------------------------------
+------------
 
-## Course Outline
+### Course Outline
 - Machine Learning 101
 - Python
 - Work Environment
@@ -31,19 +31,19 @@ Introduction
 - Data engineering
 - Storytelling & Communication
 
-## Classroom
+### Classroom
 
 https://discord.gg/nVmbHYY
 
 Machine Learning 101
----------------------------------------------
+--------------------
 
-## What is Machine Learning?
+### What is Machine Learning?
 
 
-## How did we get here
+### How did we get here
 
-## Types of Machine Learning
+### Types of Machine Learning
 
 You guessed it: 
 
@@ -57,16 +57,16 @@ You guessed it:
 	- Skill acquisition
 	- Real time learning
 
-## 2nd explanation of ML
+### 2nd explanation of ML
 
 input => algorithm => output
 
 input => output => figure out the algorithm
 
 Machine Learning and Data Science framework
----------------------------------------------
+-------------------------------------------
 
-## Introducing our framework
+### Introducing our framework
 
 1. Data collection
 2. Data modelling
@@ -76,7 +76,7 @@ Machine Learning and Data Science framework
 2. Match to data science and machine learning tools
 3. Make projects
 
-## 6 step Machine Learning framework
+### 6 step Machine Learning framework
 
 https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/
 
@@ -93,7 +93,7 @@ https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-pro
 6. Experimentation
 	- How could we improve? What can we try next?
 
-## Types of Machine Learning problems
+### Types of Machine Learning problems
 
 When shouldn't we use ML?
 	- Will a simple hand-coded instruction based system work?
