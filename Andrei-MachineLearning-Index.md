@@ -100,18 +100,40 @@ When shouldn't we use ML?
 
 #### Main types of ML
 
-	- Supervised learning
-		- Classification (discrete)
-			- Binary classification
-			- Multi-class classification
-	- Unsupervised learning (continuous)
-		- Finding patterns in unsupervised data
-		- Clustering
-	- Transfer learning
-		- Ex. Applying knowledge of cat images recognition to dog images recognition
-	- Reinforcement learning
-		- Rewards and punishments (generally used for games)
+- Supervised learning
+	- Classification (discrete)
+		- Binary classification
+		- Multi-class classification
+- Unsupervised learning (continuous)
+	- Finding patterns in unsupervised data
+	- Clustering
+- Transfer learning
+	- Ex. Applying knowledge of cat images recognition to dog images recognition
+- Reinforcement learning
+	- Rewards and punishments (generally used for games)
 
+### Types of data
+
+- Structured
+	- Rows & columns, excel files
+- Unstructured
+	- Images, videos, audio
+
+- Static
+
+- Streaming data
+	- Ex. News data about stock prices
+
+## Types of evaluation
+
+Different types of metrics
+
+
+| Classification  | Regression     									| Recommendation   	|
+| :-------------  | :----------: 										|	:-----------: 		|
+|  Accuracy  			| Mean absolute error (MAE)  			| Precision at K  	|
+|  Precission    	| Mean squared error (MSE) 				|										|
+|  Recall					| Root mean squared error (RMSE) 	| 									|
 
 
 
