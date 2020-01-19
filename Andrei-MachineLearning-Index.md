@@ -246,4 +246,9 @@ An extra resource on general AI topics:
 https://www.elementsofai.com/
 
 
+The 2 Paths
+-----------
 
+Are you familiar with Python or not?
+
+ZTM blog: https://zerotomastery.io/blog/
